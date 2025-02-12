@@ -4,6 +4,10 @@
 
 ![image-20250212190349685](./figs/channel-strategy-overview.png)
 
+![Stars](https://img.shields.io/github/decisionintelligence/CS4TS)
+
+[![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/CS4TS)](https://badges.pufler.dev/visits/decisionintelligence/CS4TS)
+
 - A channel strategy refers to the approach employed to process, integrate, or utilize information from multiple input channels.
 - **Channel Independence (CI):** The CI strategy treats each channel independently, without considering any potential interactions or correlations among channels. Each channel is processed as a separate input, and no shared information or dependencies are utilized.
 - **Channel Dependence (CD):** The CD strategy assumes that all channels in a multivariate time series are inherently correlated and interdependent, treating them as a unified entity during the forecasting process.
