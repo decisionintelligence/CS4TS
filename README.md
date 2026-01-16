@@ -1,6 +1,6 @@
 # **A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective**
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/decisionintelligence/CS4TS) [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/CS4TS)](https://badges.pufler.dev/visits/decisionintelligence/CS4TS)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/decisionintelligence/CS4TS) 
 
 
 
