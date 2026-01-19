@@ -7,13 +7,14 @@
 ![image-20250212190349685](./figs/channel-strategy-overview.png)
 
 
+
 - **A channel strategy refers to the approach employed to process, integrate, or utilize information from multiple input channels.**
 - **Channel Independence (CI):** The CI strategy treats each channel independently, without considering any potential interactions or correlations among channels. Each channel is processed as a separate input, and no shared information or dependencies are utilized.
 - **Channel Dependence (CD):** The CD strategy assumes that all channels in a multivariate time series are inherently correlated and interdependent, treating them as a unified entity during the forecasting process.
 - **Channel Partiality (CP):**  The CP strategy strikes a balance between CI and CD, allowing each channel to retain a degree of independence while simultaneously interacting with other related channels. This approach emphasizes a hybrid state where channels selectively interact and exhibit partial correlations.
 
 
-
+This repository contains a list of papers and their corresponding codebases, categorized by CI, CD, and CP.
 
 
 | Strategy | Mechanism         | Asym. | Lag. | Pol. | Gw.  | Dyn. | Ms.  | Method                                                       | Paradigm   | Venue | Year | Code                                                         |
